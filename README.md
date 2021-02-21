@@ -1,13 +1,13 @@
 # Introduction
 > Projet en arithmétique modulaire sur les différents tests de primalités.
 
-Participants **INSERT NAMES HERE**
-- PERSONNE X
-- PERSONNE Y
-- PERSONNE Z
-- PERSONNE W
+Participants **INSERT NAMES DOWN HERE**
+- X
+- Y
+- Z
+- W
 
-# Liste d'algorithme à chercher
+# Liste d'algorithme (à chercher)
 
 > à trier par ordre chronologique
 
@@ -21,7 +21,7 @@ Participants **INSERT NAMES HERE**
 	- Test de primalité de Miller-Rabin
 	- Test de primalité de Solovay-Strassen
 
-# Usefull links
+# Liens utiles
 - <https://www.youtube.com/watch?v=ga9N_ey4La4> *To see later* - Code NCode 
 
 - Probabilistic Test \- GeeksForGeeks
