@@ -16,6 +16,7 @@ Participants **INSERT NAMES DOWN HERE**
 - Génération de table
 	- Crible d'Ératosthène
 	- Crible de Hoare
+	- Crible d'Atkin
 - Test probabilistes (méthode Monte-Carlo)
 	- Test de primalité de Fermat
 	- Test de primalité de Miller-Rabin
