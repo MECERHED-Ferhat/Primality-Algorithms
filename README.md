@@ -11,24 +11,47 @@ Participants **INSERT NAMES DOWN HERE**
 
 > à trier par ordre chronologique
 
+
 - Test déterministe
-	- Test de primalité natif (de 2 à RAC(N))
-- Génération de table
-	- Crible d'Ératosthène
-	- Crible de Hoare
-	- Crible d'Atkin
+	- The AKS-Test (Ferhat)
+	- Test LLR (Yamina)
+	- Test Pepin (Fayçal)
+	- Test APR (Fayçal)
+	- Test de primalité Lucas-Lehmer (Fayçal)
+
 - Test probabilistes (méthode Monte-Carlo)
-	- Test de primalité de Fermat
-	- Test de primalité de Miller-Rabin
-	- Test de primalité de Solovay-Strassen
+	- Test de primalité de Fermat (Amel)
+	- Test de primalité de Miller-Rabin (Amel)
+	- Test de primalité de Solovay-Strassen (Amel)
+	- Test de primalité Baillie-PSW (Yamina)
+	- Test de primalité courbe elliptic (Yamina)
+	- Test Proth Test (Ferhat)
+	- Test Pocklington (Ferhat)
+	- Test de primalité Quadratic Frobenius QFT (Fayçal)
 
 # Liens utiles
-- <https://www.youtube.com/watch?v=ga9N_ey4La4> *To see later* - Code NCode 
+- <https://www.youtube.com/watch?v=ga9N_ey4La4> *To see later* - Code NCode
 
 - Probabilistic Test \- GeeksForGeeks
 	- <https://www.geeksforgeeks.org/primality-test-set-2-fermet-method/>
 	- <https://www.youtube.com/watch?v=AaNUzEHiDpI>
 
-- <https://www.youtube.com/watch?v=p5S0C8oKpsM> Probabilistic Test \- Udacity
+- <https://www.youtube.com/watch?v=p5S0C8oKpsM> Probabilistic Test - Udacity
 
-- <https://www.youtube.com/watch?v=HvMSRWTE2mI> The AKS-Test \- NumberPhile
+- <https://www.youtube.com/watch?v=HvMSRWTE2mI> The AKS-Test - NumberPhile
+
+
+
+# Plan du rapport
+
+## Introduction générale
+> INTRODUCTION GENERALE
+
+## Description algorithme
+- prologue (date/inventeur/utilisation_en_cryptographique)
+- méthodologie/concept_mathématique
+- Code algorithmique
+- Avantages/Inconvéniants
+
+## Implémentation des algorithmes
+### Programme.py
