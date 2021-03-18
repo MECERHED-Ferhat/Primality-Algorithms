@@ -24,7 +24,10 @@ root = tk.Tk()
 
 files = os.listdir("./algos")
 
-algorithms = [i[:-3] for i in files]
+algorithms = []
+for i in files:
+	if (os.path.isfile(os.path.join("./algos", i))):
+		algorithms.append(i[:-3])
 
 # # # # # # # # # # # #
 
