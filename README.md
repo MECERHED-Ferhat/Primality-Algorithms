@@ -1,11 +1,5 @@
 # Introduction
-> Application showing several primality testing algorithms
-
-Participants
-- MECERHED Ferhat
-- AZZOUZ Yamina
-- NABAOUI Fayçal
-- BENADBALLAH Amel
+Application showing several primality testing algorithms.
 
 # Implemented Algorithms
 - Deterministic Test
@@ -35,3 +29,10 @@ Participants
 - <https://www.youtube.com/watch?v=p5S0C8oKpsM> Probabilistic Test - Udacity
 
 - <https://www.youtube.com/watch?v=HvMSRWTE2mI> The AKS-Test - NumberPhile
+
+# Contributors
+Made in collaboration with my colleagues:
+- AZZOUZ Yamina
+- NABAOUI Fayçal
+- BENADBALLAH Amel
+Much thanks to them.
